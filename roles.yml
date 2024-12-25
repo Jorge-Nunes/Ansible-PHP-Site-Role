@@ -1,4 +1,4 @@
 ---
 - src: bbatsche.Base
-- src: bbatsche.Nginx
+- src: bbatsche.nginx
 - src: geerlingguy.swap
